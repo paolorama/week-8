@@ -25,7 +25,7 @@ Vulnerability #2: __________________
 ## Green
 
 Vulnerability #1: __________________
-<img src='image.gif' />
+<img src='week8.2.gif' />
 
 Vulnerability #2: __________________
 <img src='image.gif' />
