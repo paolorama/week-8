@@ -27,14 +27,14 @@ Vulnerability #2: __________________
 Vulnerability #1: Username Enumeration
 <img src='week8.2.gif' />
 
-Vulnerability #2: Idor
+Vulnerability #2: Cross-site scripting (XSS)
 <img src='week8.4.gif' />
 
 ## Red
 
-Vulnerability #1: 
+Vulnerability #1: Idor
 <img src='week8.3.gif' />
-Vulnerability #2: __________________
+Vulnerability #2: CSRF
 <img src='week8.5.gif' />
 
 ## Notes
