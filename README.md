@@ -16,7 +16,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: _Sql injuction using the injection 'or sleep(5)=0--"_________________
+Vulnerability #1: _Sql injuction using the injection 'or sleep(5)=0--"
 <img src='week8.1.gif' />
 
 Vulnerability #2: __________________
@@ -24,15 +24,15 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: Cross-site scripting__________________
+Vulnerability #1: Username Enumeration
 <img src='week8.2.gif' />
 
-Vulnerability #2: __Idor________________
+Vulnerability #2: Idor
 <img src='week8.4.gif' />
 
 ## Red
 
-Vulnerability #1: ___user _______________
+Vulnerability #1: 
 <img src='week8.3.gif' />
 Vulnerability #2: __________________
 <img src='week8.5.gif' />
