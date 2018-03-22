@@ -17,7 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: __________________
-<img src='image.gif' />
+<img src='week8.1.gif' />
 
 Vulnerability #2: __________________
 <img src='image.gif' />
