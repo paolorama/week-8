@@ -35,7 +35,7 @@ Vulnerability #2: __________________
 Vulnerability #1: __________________
 <img src='week8.3.gif' />
 Vulnerability #2: __________________
-<img src='week8.gif' />
+<img src='week8.5.gif' />
 
 ## Notes
 
