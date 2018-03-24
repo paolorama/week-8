@@ -19,8 +19,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: _Sql injuction using the injection 'or sleep(5)=0--"
 <img src='week8.1.gif' />
 
-Vulnerability #2: __________________
-<img src='image.gif' />
+Vulnerability #2: Session hijacking
+<img src='week8.6.gif' />
 
 ## Green
 
